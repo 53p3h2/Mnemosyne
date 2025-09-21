@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "apscheduler>=3.11.0",
-    "ollama-python>=0.1.2",
+    "ollama>=0.5.4",
     "rich>=14.1.0",
     "textual>=6.1.0",
 ]
